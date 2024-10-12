@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL**: [Add your solution URL](https://your-solution-url.com)  
-- **Live Site URL**: [Add your live site URL](https://your-live-site-url.com)
+- **Solution URL**: [https://github.com/sudarshanHosalli/FAQ-Accordion/](https://github.com/sudarshanHosalli/FAQ-Accordion/)
+- **Live Site URL**: [https://timely-pastelito-75a1ab.netlify.app/](https://timely-pastelito-75a1ab.netlify.app/)
 
 ---
 
